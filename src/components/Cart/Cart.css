@@ -1,0 +1,12 @@
+.cart{
+    background-color: chocolate;
+    padding: 25px;
+    position: sticky;
+    top: 0;
+    border-radius: 20px;
+    
+
+}
+.cart p{
+    font-size: 17px;
+}
